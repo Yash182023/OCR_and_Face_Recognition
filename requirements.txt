@@ -2,7 +2,6 @@ streamlit
 pyttsx3
 opencv-python-headless
 sounddevice
-speech_recognition
 face_recognition
 pytesseract
 gtts
