@@ -1,6 +1,6 @@
 streamlit
 pyttsx3
-opencv2-python
+opencv-python-headless
 sounddevice
 speech_recognition
 face_recognition
