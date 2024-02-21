@@ -5,6 +5,4 @@ sounddevice
 face_recognition
 pytesseract
 gtts
-threading
-glob
 webcolors
