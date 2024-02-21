@@ -6,3 +6,4 @@ face_recognition
 pytesseract
 gtts
 webcolors
+cmake
